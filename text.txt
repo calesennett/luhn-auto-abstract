@@ -1,21 +1,44 @@
-The breakthrough in nuclear talks with Iran on Thursday has the potential to cause a seismic shift in global energy markets over the long term, but energy experts said any appreciable impact on an already glutted global oil market was highly doubtful for at least six months and probably more than a year.
-Since the European Union placed sanctions on Iranian oil in 2012, Iranian exports of crude have fallen by more than a million barrels a day — more than 1 percent of the daily global market. At a time when there is a daily excess of nearly two million barrels of supply on the world market, another million barrels a day would put further pressure on world crude prices — which have fallen about 50 percent since June.
-While the agreement reached in Switzerland was tentative, the news led traders to sell oil futures and the price of the global Brent benchmark declined by nearly 4 percent, falling below $55 a barrel. Iran has as much as 20 million barrels of crude in storage — more than what the United States consumes in a day — that it could potentially release on the market.
-The lifting of oil sanctions has been one of Iran’s main objectives because its economy is highly dependent on oil sales, and sanctions have caused cancellations and delays in oil exploration and production projects.
-“The framework agreement lays out a path to significantly increase Iranian oil exports over time,” said Michael Levi, an energy expert at the Council on Foreign Relations. But he added, “You want to know how many barrels will come out of Iran next week? Zero.”
-The agreement does not detail which of an intricate web of financial, oil and travel sanctions will be removed first and in what order they will be lifted. And
-￼before Iran can begin to significantly add to world supplies, the United States and its allies will need to be convinced that Tehran is living up to its commitments under the tentative agreement.
-Verification could be a time-consuming process, energy experts say, since modifying nuclear equipment, dismantling centrifuges and carrying out detailed inspections can take months.
-And even after verification, production and exports will take more than a year to recover because the output of Iran’s fields have been declining in recent years because of underinvestment and western sanctions.
-Energy analysts at Raymond James said it was unlikely Iran could realistically increase production by more than an additional half a million barrels a day by the end of 2016.
-“Let’s not ignore the technical issues here,” said a Raymond James report this week. “Once a well is shut in, resuming production is not quite flipping a switch. It is almost always the case that the subsequent rate of production ends up being below what the well was producing before.”
-Iran is still among the premier oil producers in the world, and has the fourth- largest proven reserves after Saudi Arabia, Venezuela and Canada. Its largest buyers are China, India, Japan, South Korea and Turkey. Expanded exports to those countries would put price pressure on competing members of the Organization of the Petroleum Exporting Countries, particularly its archrival Saudi Arabia. With higher production, Iran could challenge the leadership of Saudi Arabia in OPEC in alliance with Iraq and Venezuela.
-The agreement also was viewed as a possible harbinger of closer cooperation between the United States and Iran against the Islamic State insurgency in Iraq and perhaps of a lessening of regional tensions.
-“If the supreme leader accepts the agreement and Iran complies with the requirements of the deal, and if they adopt a framework friendlier to foreign investment, then Iran’s long-term future as a global supplier is significant,” said David Goldwyn, who was a senior State Department energy official in the first Obama administration. “It could have a major impact on the geopolitics of both Europe and the Middle East.”
-Oil prices have been bouncing up and down in recent days as news from the nuclear talks alternately raised and diminished hopes of an agreement. Contradictory factors are likely to continue to move oil in a jagged direction in the
-coming weeks. On the one hand, oil supplies continue to build in the United States and globally. On the other, conflicts in Iraq and Libya threaten to trim their crude exports.
-The sanctions on Iran have brought a steady decline in oil and natural gas revenue, to $56 billion in the 2013-2014 fiscal year from about $118 billion in the 2011-2012 fiscal year, according to the International Monetary Fund.
-But even before western sanctions, Iranian oil production was in decline — from four million barrels a day in late 2007 to 3.5 million barrels a day only four years later. International oil companies, particularly from Europe, Russia and China, have shown an interest in returning to Iran to reinvigorate the oil industry, but it could take years of negotiations and planning for a serious effort to take root. And with oil prices in decline, oil companies are generally cutting back their exploration and production budgets.
-“It’s going to be very slow for oil companies to go back,” said Dragan Vuckovic,
-president of Mediterranean International, an oil service company that operates in
-the Middle East. “It will take at least a year. Opening up takes time.”
+The debate over active versus passive funds has gotten a lot of attention. But what should investors do when it comes to passive versus passive? More and more options are becoming available to investors who want a fund that tracks a particular market benchmark, as companies expand offerings of index mutual funds and exchange-traded funds. In fact, indexing giant Vanguard Group recently announced plans to add an ETF share class for its flagship index fund, Vanguard 500 Index. It's also launching 19 new index portfolios with both mutual-fund and ETF shares.
+
+So how should investors decide between traditional funds and ETFs? There are a few important points to keep in mind. Many ETFs are cheaper than traditional funds, thanks to the advent of commission-free trading—and a recent price war among providers. ETFs also offer some important tax advantages.
+
+But there are renewed concerns about ETFs after the May "flash crash" saw the prices of some ETFs fall far more than the value of their underlying holdings. First-time ETF investors should also be sure they understand that ETFs trade throughout the day instead of just once, like mutual funds—and that can carry some risks.
+
+As for performance, the two types of funds haven't diverged greatly. Index mutual funds that track the Standard & Poor's 500-stock index are down an average 7.30% for the three-year period through July 26, while ETFs tracking the same index are down 6.97%, according to Morningstar Inc. Similarly, index funds tracking the Russell 2000 small-stock index are down 5.01% while ETFs are down 4.21%, and index funds tracking the MSCI EAFE foreign-stock index are down 10.54%, while ETFs are down 10.02%.
+
+Here's a closer look at the big differences between index ETFs and traditional index funds.
+
+Expenses
+When deciding between ETFs and funds, "the first consideration should be about costs," says Paul Justice, director of ETF research for North America at Morningstar. "The fee is going to alter your returns over longer periods of time to a meaningful degree."
+
+ENLARGE
+JOHN WEBER
+Here, ETFs almost always win: The average expense ratio for all ETFs in the U.S. is 0.54%, compared with the 0.99% average for all conventional index funds in the U.S., according to Morningstar. Consider one of the largest funds that tracks the S&P 500 and a comparable ETF. Vanguard 500 has an expense ratio of 0.18% for retail shares, compared with a 0.09% expense ratio for the SPDR S&P 500 ETF.
+
+ETFs didn't always have such a big price advantage. In fact, the trading fees investors paid for buying and selling ETFs used to be one of the big marks against them. But now "there's an emergent price war in ETFs," says Matt Hougan, editor of IndexUniverse.com.
+
+It began last November, when Charles Schwab Corp. entered the ETF market with four funds that featured no commissions for Schwab investors who trade online at Schwab. Currently, Schwab offers all eight of its stock ETFs commission-free for those investors. Three Schwab bond ETFs will be available for trading later this week, also without commissions for Schwab account holders trading online.
+
+Other firms followed earlier this year with no-commission deals of their own. Vanguard began to offer all of its ETF share classes commission-free for its brokerage clients, and the new Vanguard S&P 500 ETF will have a 0.06% expense ratio. Fidelity Investments teamed up with BlackRock Inc.'s iShares unit to offer 25 iShares ETFs commission-free to Fidelity retail clients, in addition to its commission-free Fidelity Nasdaq Composite Index ETF.
+
+Trading Flexibility
+Another big difference between ETFs and traditional funds is how they trade. ETFs can be bought and sold throughout the trading day, while traditional funds are priced and traded only once a day. The flexibility of ETFs may suit investors interested in short-term trading or who want to liquidate a holding quickly. But that flexibility adds an element of uncertainty and complexity for investors: Prices are set by buyers and sellers in the marketplace, and they sometimes deviate from the ETF's net asset value, or the value of its holdings.
+
+With a mutual fund, by contrast, "you're going to get the calculated NAV at the end of the day when you buy or sell, and you remove that premium and discount risk," says Mr. Hougan of IndexUniverse.com.
+
+The result, says Morningstar's Mr. Justice, is that "trading an ETF is slightly more complicated than a mutual fund." For instance, experienced ETF traders often use limit orders, which means a trade will be executed only within a specified price range. Some ETF traders also tend to avoid buying and selling at the very beginning and the end of the trading day, when prices can be more volatile.
+
+The market prices of large, widely traded ETFs tend to stick close to net asset value. Divergences are more common when the securities that ETFs hold are less heavily traded, such as with many corporate bonds.
+
+Still, Fran Kinniry, a principal in Vanguard's investment strategy group, says over the long run, premiums and discounts "tend to wash themselves out," allaying some of the concerns for investors who plan to buy and hold ETFs for years.
+
+Mr. Kinniry thinks a bigger distinction between index mutual funds and ETFs is where they're bought and sold. Investors who aren't used to buying from brokerages might prefer to stick with traditional index mutual funds.
+
+Tax Efficiency
+Another plus for ETFs: These funds are "more tax-fair and more tax-efficient" than even their index mutual-fund counterparts, says Mr. Hougan.
+
+When ordinary investors decide to dispose of an ETF investment, they sell the shares to others rather than redeeming them with the fund. That eliminates a tax issue that mutual funds face: When a fund needs to sell securities to meet redemption requests, it must distribute the resulting net taxable gains to all the fund's investors.
+
+The result: ETF investors get fewer or no distributions of gains realized by the funds. For example, Morningstar data show that none of the ETFs that track the S&P 500 or the Russell 2000 had a capital-gains distribution in 2009. In contrast, the average distribution for conventional U.S. index mutual funds that track the S&P 500 was 0.36% of net asset value, while index funds that track the Russell 2000 had an average distribution of 0.25%. "Almost the only way to generate a capital gain in an ETF is if there's an index change and the fund has to sell securities to meet that index change," Mr. Hougan says.
+
+In essence, ETFs give investors control over their own tax issues, says Noel Archard, managing director at iShares. "With an ETF, you're truly picking up your own tab and doing it at your own rate" and aren't affected by the actions of other investors in the fund.

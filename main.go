@@ -17,7 +17,7 @@ func main() {
 	r := regexp.MustCompile("- ")
 	text := strings.TrimSpace(string(file))
 	text = r.ReplaceAllString(text, "")
-	Summarize(text)
+	fmt.Println(Summarize(text))
 }
 
 func Summarize(text string) string {
@@ -26,25 +26,21 @@ func Summarize(text string) string {
 	commonWords := commonWords()
 	// make map of frequently occuring words
 	frequentWords := frequency(strings.ToLower(text), commonWords)
-	fmt.Println(frequentWords)
 	sentences := regexp.MustCompile("\n|\\. ").Split(text, -1)
 	sentenceScores := scoreSentences(sentences, frequentWords, commonWords)
 	byRank := byRankSentences(sentenceScores)
 	byAppearance := byAppearanceSentences(byRank, sentences)
-	fmt.Println(byAppearance)
-	return ""
+	return byAppearance
 }
 
 func byAppearanceSentences(byRank []string, sentences []string) string {
 	byAppearance := []string{}
-	for _, sent := range byRank {
-		for _, sentence := range sentences {
-			if sent == sentence {
-				byAppearance = append(byAppearance, sentence)
-			}
+	for _, sent := range sentences {
+		if contains(byRank, sent) {
+			byAppearance = append(byAppearance, sent)
 		}
 	}
-	return strings.Join(byAppearance, ".")
+	return strings.Join(byAppearance, ". ")
 }
 
 func byRankSentences(sentenceScores map[string]float64) []string {
@@ -59,11 +55,10 @@ func byRankSentences(sentenceScores map[string]float64) []string {
 		for sent, s := range sentenceScores {
 			if score == s {
 				topRanked = append(topRanked, sent)
-				break
 			}
 		}
 	}
-	topTen := int(float64(len(topRanked)) * 0.1)
+	topTen := int(float64(len(topRanked)) * 0.05)
 	topRanked = topRanked[:topTen]
 	return topRanked
 }
